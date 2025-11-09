@@ -1,53 +1,82 @@
-# 👋 Hola, soy David Nino
+# Hola, soy David Nino <img src="https://api.iconify.design/twemoji:saxophone.svg" alt="Saxophone" width="28" height="28" style="vertical-align: middle;" />
 
-Desarrollador web full stack & diseñador gráfico con enfoque en **experiencias digitales impactantes**.  
-Me apasiona crear interfaces limpias, animaciones suaves, y sistemas funcionales que conecten diseño con tecnología.
+Hey! Soy desarrollador web full stack y diseñador gráfico. Me encanta crear cosas que se vean bien y funcionen mejor. 
 
----
+Paso mis días construyendo experiencias digitales que realmente conecten con las personas, ya sea diseñando interfaces minimalistas, programando sistemas robustos, o encontrando ese punto dulce donde el diseño y la tecnología se encuentran.
 
-## 💼 Tecnologías que uso
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-
-### Backend & Base de Datos
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin)
-
-### Diseño & Branding
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator)
+Cuando no estoy frente a la pantalla, probablemente me encuentres practicando musica. Ayuda a mantener la creatividad fluyendo.
 
 ---
 
-## 🚀 Algunos proyectos
+## Lo que hago:
 
-- 🎧 **[Mi portafolio web](https://danino.dev)** – Desarrollo + branding personal en Next.js + Tailwind
-- 📦 **CMS headless + Next.js** – Sitios autoeditables para clientes sin backend separado
-- 📲 **App agrícola offline** – App en React Native con mapas sin conexión (GraphHopper, MapLibre)
-- 🤖 **Automatizaciones low-code** – Integraciones con n8n, Gumloop y más
+### <img src="https://cdn.simpleicons.org/react/61DAFB" width="20" height="20" style="vertical-align: middle;" /> En el frontend
+Trabajo principalmente con **React** y **Next.js**, escribo **TypeScript** para mantener todo ordenado, y uso **TailwindCSS** cuando necesito que algo se vea bien rápido (que es casi siempre).
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css" alt="Frontend Skills" />
+</p>
+
+### <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="20" height="20" style="vertical-align: middle;" /> En el backend
+Me manejo con **Node.js**, he estado explorando **Kotlin** últimamente, y cuando necesito hablar con bases de datos suelo usar **Prisma** y **PostgreSQL**.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,kotlin,prisma,postgres,mongodb" alt="Backend Skills" />
+</p>
+
+### <img src="https://cdn.simpleicons.org/figma/F24E1E" width="20" height="20" style="vertical-align: middle;" /> En diseño
+**Figma** es mi herramienta principal para prototipar y diseñar sistemas. Cuando necesito crear algo más elaborado, recurro a **Photoshop** o **Illustrator** para el trabajo pesado de branding.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" alt="Design Skills" />
+</p>
 
 ---
 
-## 📚 En este momento estoy aprendiendo
+## Cosas en las que he trabajado
 
-- Kotlin + Spring Boot para backend robusto
-- NestJS y tRPC para fullstack TypeScript
-- Estrategias de monetización con herramientas digitales
+**Mi portafolio web** — [danino.dev](https://danino.dev)  
+Lo construí desde cero con Next.js y Tailwind. Es mi espacio personal donde muestro proyectos y experimento con ideas nuevas.
+
+**CMS headless + Next.js**  
+He desarrollado sitios completamente autoeditables para clientes que necesitan control total sin complicarse con backends separados.
+
+**App agrícola offline**  
+Una aplicación en React Native con mapas que funcionan sin internet. Usé GraphHopper y MapLibre para que los usuarios pudieran navegar en zonas rurales sin cobertura.
+
+**Automatizaciones low-code**  
+Creo flujos de trabajo inteligentes con n8n, Gumloop y otras herramientas para automatizar procesos repetitivos.
 
 ---
 
-## 💬 ¿Quieres contactarme?
+## Aprendiendo ahora mismo
 
-Estoy abierto a colaboraciones, freelance 🚀  
-📩 **[danino.dev](https://danino.dev)** | ✉️ [LinkedIn](https://linkedin.com/in/davidnino) | 📮 GitHub: `@danino-dev`
+Siempre estoy en modo aprendizaje. Actualmente me estoy metiendo más a fondo con:
+
+- **Kotlin + Spring Boot** para construir backends más sólidos y escalables
+- **NestJS y tRPC** porque me gusta la idea de fullstack TypeScript de principio a fin
+- **Estrategias de monetización digital** — aprendiendo cómo convertir proyectos personales en productos sostenibles
 
 ---
 
-_Gracias por pasarte por aquí_
+## Hablemos
+
+Si tienes un proyecto interesante en mente o simplemente quieres conversar sobre tecnología, diseño o música, no dudes en contactarme.
+
+<p align="left">
+  <a href="https://danino.dev">
+    <img src="https://img.shields.io/badge/Portfolio-danino.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/daninodev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/danino-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+Estoy abierto a colaboraciones y proyectos freelance.
+
+---
+
+_Nos vemos por ahí_
