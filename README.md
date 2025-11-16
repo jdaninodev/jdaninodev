@@ -3,8 +3,7 @@
 Hey! Soy desarrollador web full stack y diseñador gráfico. Me encanta crear cosas que se vean bien y funcionen mejor. 
 
 Paso mis días construyendo experiencias digitales que realmente conecten con las personas, ya sea diseñando interfaces minimalistas, programando sistemas robustos, o encontrando ese punto dulce donde el diseño y la tecnología se encuentran.
-
-Cuando no estoy frente a la pantalla, probablemente me encuentres practicando musica. Ayuda a mantener la creatividad fluyendo.
+Jazz lover.
 
 ---
 
